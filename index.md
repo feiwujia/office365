@@ -32,7 +32,7 @@ Office 365 A1 for students
 ```
 ***
 Office 365 A1 for faculty和students差不多，A1P如下：
-***
+
 ```markdown
 Office 365 A1 Plus for students
 
