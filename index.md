@@ -299,5 +299,5 @@ SharePoint 系列许可给予用户SharePoint、微软Onedrive网盘的使用权
 购买得到的账号为以下类型aaa@bbb.ccc，**aaa是需要用户提供的前缀**，重置密码所用到的邮箱、手机号，在管理员开启自主重置密前提下，登陆office.com的时候自助设置。
 
 ***
-最后，这篇文章为本人从各方面了解到的内容，包括但不限于https://docs.microsoft.com ，来自https://docs.microsoft.com 之外的内容，不能代表微软官方的政策，由于本人水平十分有限，如内容有误，欢迎大佬指出！
+最后，这篇文章为本人从各方面了解到的内容，包括但不限于https://docs.microsoft.com ，来自https://docs.microsoft.com 之外的内容，不能代表微软官方的政策，由于本人水平十分有限，如内容有误，希望大佬及时指出！
 
