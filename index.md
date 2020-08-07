@@ -70,7 +70,7 @@ The latest desktop version of Office
 Skype for Business Online (Plan 2)
 ```
 
-Office 365 A1 for faculty和students区别在于多了Education Analytics和Microsoft Kaizala Pro的许可~~（并用不到）~~，Office 365 A1 Plus for faculty、Office 365 A1 Plus for students与A1(无Plus)的主要区别是**增加**了**Office最新的桌面版本**，而O365A3、O355A5不常见，各版具体的区别可以在[官网](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans)查看。
+Office 365 A1 for faculty和students区别在于多了Education Analytics和Microsoft Kaizala Pro的许可，Office 365 A1 Plus for faculty、Office 365 A1 Plus for students与A1(无Plus)的主要区别是**增加**了**Office最新的桌面版本**，而O365A3、O355A5不常见，各版具体的区别可以在[官网](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans)查看。
 ### 2、Microsoft 365 订阅
 以Microsoft 365 A3 - Unattended License for students use benefit为例，其订阅最高可达Unlimited，其许可证如下：
 ```markdown
