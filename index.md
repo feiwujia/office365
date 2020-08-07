@@ -112,7 +112,7 @@ Azure Active Directory Basic for EDU
 最后关于Microsoft 365 A3 - Unattended License for students use benefit这一订阅，在2020年5月初被微软~~临时工~~错误的配置到了[管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/catalog)中，并称是给bot使用的，要求拥有Microsoft 365 A3的组织管理员**在6月30日前取消面向学生的许可证分配**，但是已经添加该订阅的，6月30日之后该订阅仍处于活动状态，并未被微软大规模禁用。
 
 ## 二、商业订阅
-###1、灵车
+### 1、灵车
 最著名的灵车无非就是 Office 365 E3 for Symphony(E3 SY)了，据大佬说，该订阅为微软提供给其合作伙伴Symphony公司的测试订阅，单订阅许可证可达350W，其许可证如下：
 ```markdown
 Office 365 E3
