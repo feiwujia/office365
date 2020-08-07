@@ -292,9 +292,11 @@ SharePoint 系列许可给予用户SharePoint、微软Onedrive网盘的使用权
 
 ## 9、你给的链接全是英文，我看不懂！
 之所以给英文链接，是因为微软部分页面并未翻译或翻译不完全，强行中文出来的页面均为微软机翻的，有很多理解不了、有缺陷甚至于原意相反的地方。如果想看中文，可以把链接中的en-us改成zh-cn/zh-tw/zh-hk，出现提示**“本主题的部分内容可能是由机器翻译。”**建议阅读英文原文。
+```markdown
 例：https://docs.microsoft.com/**en-us**/office365/servicedescriptions
-    
+   
     https://docs.microsoft.com/**zh-cn**/office365/servicedescriptions
+```
     
 ## 10、我想买一个账户，但是要提供些什么？
 购买得到的账号为以下类型aaa@bbb.ccc，**aaa是需要用户提供的前缀**，重置密码所用到的邮箱、手机号，在管理员开启自主重置密前提下，登陆office.com的时候自助设置。
