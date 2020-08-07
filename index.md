@@ -6,12 +6,16 @@
 
 Microsoft 365使用订阅的机制，分为多个版本，如个人版、家庭版、教育订阅(A系列)、商业/企业订阅(E系列)；其中订阅分为Microsoft 365(M365)订阅以及Office 365(O365)订阅，前者追加了更多的服务与功能(例如可能包含**Window 10 Enterprise**、**Microsoft Intune**等等)。
 
-O365教育订阅包括A1、A1P、A3、A5等，最常见的为A1、A1P；
-M365教育订阅包括A1、A3、A5等，目前常见的、能够不给微软交钱就取得的仅有A3，于2020年5月初出现；
-教育订阅均为微软向合规教育机构的捐赠(O365A1等免费订阅)或正规教育机构以优惠价格取得的(A1P、A3)；
+O365教育订阅包括A1、A1P、A3、A5等，最常见的为A1、A1P； 
+M365教育订阅包括A1、A3、A5等，目前常见的、能够不给微软交钱就取得的仅有A3，于2020年5月初出现； 
+教育订阅均为微软向合规教育机构的捐赠(O365A1等免费订阅)或正规教育机构以优惠价格取得的(A1P、A3)； 
+
 就在2020年8月6日，微软搞了一波Microsoft 365 零元购，大量Prepaid订阅以零元的价格被放在了[管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/catalog)后台，并且可直接购买，出现了一堆奇怪的教育订阅，例如O365 E3/E4/A3 for students/faculty、Microsoft 365 Apps for students/faculty等等，这些铁灵车，下文不做介绍。
+
 商业订阅包括企业版和商业版，订阅大部分都是E开头，有的叫Office 365，有的叫Microsoft 365；具体有E1、E3、E4、E5、Microsoft 365 Business XXX，其中Office 365 E3 for Symphony 和Microsoft 365 E5 Developer (without Windows and Audio Conferencing)最常见，亦有微软向Non-Profit Organization的捐赠及优惠(E1、Microsoft 365 Business Premium)和面向开发人员的E3MSDN、E5MSDN等等。
+
 一样的，2020年8月6日，Microsoft 365 零元购，一堆的商业版/企业版订阅也是以Prepaid订阅的形式、零元的价格被放在了[管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/catalog)后台，并且可直接购买，这些铁灵车，下文亦不做介绍。
+
 最后，还有什么Teams 800年试用订阅，和一堆没什么用的/不常见的订阅，不做介绍。
 
 # 不同订阅介绍
