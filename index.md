@@ -282,7 +282,7 @@ SharePoint Online (Plan 2)
 The latest desktop version of Office
 Exchange Online (Plan 2)
 ```
-2、Office 365 Education 系列，此系列来自于Office 365 A1系列中国化，功能相比国际版A1少许多，但是重要的功能例如OneDrive、SharePoint和Exchange都有，其他特性基本与国际版A1相同；世纪互联运营的Microsoft 365并没有A1 Plus，而是采取很久以前国际版的做法，提供单独的Pro Plus订阅，以提供类似国际版A1 Plus的功能。其中Office 365 Education for Students和Office 365 Education for Faculty单订阅最高许可证为10W，其许可证如下：
+2、Office 365 Education 系列，此系列来自于Office 365 A1系列中国化，功能相比国际版A1少许多，但是重要的功能例如OneDrive、SharePoint和Exchange都有，其他特性基本与国际版A1相同；世纪互联运营的Microsoft 365并没有A1 Plus，而是采取很久以前国际版的做法，提供单独的Pro Plus订阅，与A1叠加，以提供类似国际版A1 Plus的功能。其中Office 365 Education for Students和Office 365 Education for Faculty单订阅最高许可证为10W，其许可证如下：
 ```markdown
 Office 365 Education for Students
 
