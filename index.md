@@ -140,8 +140,9 @@ Office for the web
 SharePoint (Plan 2)
 Exchange Online (Plan 2)
 ```
+在2020年8月6日Microsoft 365 零元购之后，出现了一大波Prepaid(预付费)的订阅，大部分有效期为一年，少数Business Premium为两年期，这一波有存活，目前认为也是灵车，包括E1、E3、E4、Business Premium/Basic、Microsoft 365 Apps和SharePoint Plan 1/2 、OneDrive for Business Plan 1/2 、Project、Visio、Power Bi Pro等这类单功能/少功能的订阅，目前无法鉴别，只能通过订阅启用日期来初步判断。
 ### 2、其他
-E3 MSDN，订阅名为Office 365 E3 Developer，和2019年以前申请的开发者试用E3一模一样，许可证最高为25个，其许可证如下：
+E3 MSDN，订阅名为Office 365 E3 Developer，和2019年以前申请的一年期开发者试用E3一模一样(目前已经绝版，强制切换为E5订阅，曾有人用此冒充E3 MSDN)，许可证最高为25个，其许可证如下：
 ```markdown
 Office 365 E3 Developer
 
@@ -222,14 +223,14 @@ Azure Active Directory Premium P1
 其次，灵车E3 SY，功能虽有，但是亦有各个时间产出的，**稳定性不一，翻车方式多样**，**仅建议拿来激活桌面版或者拿来乐呵乐呵**，往里面存数据就要时刻做好**数据全丢**的准备。
 最后，还有一堆商业版订阅，例如E1和Business Basic系列，大部分长得和A1差不多，Business Premium，长得和M365 A3差不多，在此不做详细介绍。
 
-# 不同订阅介绍
+# 关于翻车
 ### 一、真理
 所有非正规的、非正规渠道取得(总之就是**有违微软相关规定**)的订阅，均有翻车的可能性，微软才是永远的爸爸。
-### 二、关于翻车
+### 二、形式
 翻车形式多种多样，不排除微软还有新花样。
 #### 常规操作
 1、封订阅，即订阅被禁用。
-——添加奇怪的订阅常见翻车形式。
+——添加订阅常见翻车形式。
 
 2、掉许可，未分配的即非订阅许可证掉光。
 ——教育无订阅仅许可证全局常见。
@@ -247,7 +248,7 @@ https://xxx.sharepoint.com/_layouts/15/Throttle.htm#1033
 Something's not right
 The page you requested is temporarily unavailable. We apologize for the inconvenience, please check back in a few minutes.
 ```
-由于OneDrive for Business 是SharePoint的子站点之一，因此任何一个子账户试图访问自己的OneDrive，均会显示此错误，据大佬介绍，原因是微软将其判定为欺诈的组织的SharePoint访问阈值降为0，导致无法访问组织SharePoint。
+由于OneDrive for Business 是SharePoint的子站点之一，因此任何一个子账户试图访问自己的OneDrive，均会显示此错误，据网传微软内部邮件截图，原因是微软将其判定为欺诈(Fraud)的组织的SharePoint访问阈值降为0，导致无法访问组织SharePoint。
 本次可能不是微软下手最广的一次，但是微软下手最狠的一次，数据理论上无法取回，但是有人不断尝试与微软沟通，最好的结果是得到48H来取回数据，而购买正规商业许可证并不能改变SharePoint的限额状态。
 出现问题的大多数为**公开分享**子账户的**教育**全局，少数E3 MSDN全局(有的刷了教育许可证)。
 
@@ -255,16 +256,67 @@ The page you requested is temporarily unavailable. We apologize for the inconven
 
 # 关于使用
 ### Onedrive
-SharePoint 系列许可给予用户SharePoint、微软Onedrive网盘的使用权利，其中OneDrive是SharePoint的子站点之一。上述订阅基本上均可使用OneDrive/SharePoint，在默认的情况下最高有5T的容量（管理员设置，A1无管理默认1T），在使用到90%(4.5T)以上时，管理员可提交工单申请扩容至25T，SharePoint的使用请参考微软官方文档。
+
+**初次使用账户，需要登陆[office官网](office.com)，并单击OneDrive，来初始化OneDrive。**
+
+1、SharePoint 系列许可给予用户SharePoint、微软Onedrive网盘的使用权利，其中OneDrive是SharePoint的子站点之一。上述订阅基本上均可使用OneDrive/SharePoint，在默认的情况下最高有5T的容量（管理员设置，A1无管理默认1T）。
+
+2、在组织中有用户的OneDrive空间占用率达到90%(4.5T)以上时，管理员可提交工单申请扩容至25T，达到25T的90%以上时，管理员可提交工单获得额外的25T SharePoint储存空间，SharePoint的使用请参考微软官方文档，此条适用于大部分订阅。
+
 ### Office最新的桌面版本
 **Office最新的桌面版本**给予用户激活office365桌面版的权限，一般最多可以在**5 台电脑或 Mac、5 个平板电脑以及智能手机**上安装并激活office桌面版全家桶，并持续享受更新，关于office365与office2019等有什么不同，可以在[官网](https://support.office.com/en-us/article/what-s-the-difference-between-office-365-and-office-2019-ed447ebf-6060-46f9-9e90-a239bd27eb96?ui=en-US&rs=en-US&ad=US)查看。
 ### Office套件在线及移动端
-上述订阅基本上大部分可使用Office套件在线及移动端。
+上述订阅基本上大部分可使用[Office Online](https://www.office)。
 
+# 关于由世纪互联运营的Microsoft 365
+不知道这个玩意的可以略过，想知道这是个啥的可以[看这里](https://docs.microsoft.com/en-US/microsoft-365/admin/services-in-china/services-in-china?view=o365-21vianet)。
+以下仅介绍常见的世纪互联订阅。
 
+1、E3 Trial(OfficeCommunity.cn域)，订阅名为 Office 365 Plan E3，这个域内仅有5000许可证，目前已分配完毕。其许可证如下：
+```markdown
+Office 365 Plan E3
+
+Windows Azure Active Directory Rights
+Office Online
+SharePoint Online (Plan 2)
+The latest desktop version of Office
+Exchange Online (Plan 2)
+```
+2、Office 365 Education 系列，此系列来自于Office 365 A1系列中国化，功能相比国际版A1少许多，但是重要的功能例如OneDrive、SharePoint和Exchange都有，其他特性基本与国际版A1相同；世纪互联运营的Microsoft 365并没有A1 Plus，而是采取很久以前国际版的做法，提供单独的Pro Plus订阅，以提供类似国际版A1 Plus的功能。其中Office 365 Education for Students和Office 365 Education for Faculty单订阅最高许可证为10W，其许可证如下：
+```markdown
+Office 365 Education for Students
+
+Exchange Online (Plan 1)
+Office Mobile Apps for Office 365
+Office Online for Education
+SharePoint Plan 1 for EDU
+Skype for Business Online (Plan 2)
+```
+```markdown
+Office 365 Education for Faculty
+
+Exchange Online (Plan 1)
+Office Mobile Apps for Office 365
+Office Online for Education
+SharePoint Plan 1 for EDU
+Skype for Business Online (Plan 2)
+```
+3、在世纪互联教育版全局中，可以添加Project的免费订阅Project Online Essentials for students和Project Online Essentials for faculty，单订阅许可证可高达350W，因为其具有SharePoint Plan 2的许可证，因此其有使用OneDrive的权利，并且默认容量最高达5T，依照规则亦可申请提升至25T，其许可证如下：
+```markdown
+Project Online Essentials for students
+
+Office Online for Education
+Project Online Essentials
+SharePoint Plan 2 for EDU
+```
+```markdown
+Project Online Essentials for faculty
+Office Online for Education
+Project Online Essentials
+SharePoint Plan 2 for EDU
+```
 # Q & A
 
-**初次使用的账户，需要登陆[office官网](office.com)，并单击OneDrive，来初始化OneDrive。**
 
 ## 1、这个东西可以于Microsoft个人账户绑定吗？
 不可以，微软账户目前分为两种，一种是个人账户，另一种是工作与学校账户，二者相互独立，不可绑定，以上提到的office365均为工作与学校账户，如想使用个人账户享受office365服务，请在微软[官网](https://www.microsoft.com/en-/microsoft-365/compare-all-microsoft-365-products)查看、购买。
