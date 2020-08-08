@@ -109,7 +109,7 @@ Azure Active Directory Basic for EDU
 ```
 
 相比Office 365 A1 Plus多了Windows 10 Enterprise、Microsoft Intune、Minecraft Education Edition、Azure Active Directory Premium P1以及一堆杂毛许可，是一个功能比较完整的订阅，但Microsoft 365 A5的许可比A3还要多、部分许可还要高级。对于这个订阅，价值最大的不过也是SharePoint、Exchange、Office365桌面版和Minecraft Education Edition；关于Window 10 Enterprise许可证，需要组织的全局管理员开启相关设置，才可以激活Window 10 Enterprise，并不能激活LTSB、LTSC等其他版本，并且只要将Window连接到组织的Azure Active Directory，组织即可控制相应的设备，而激活Window 10 Enterprise，必须将Window连接到组织的Azure Active Directory，因此非常不建议使用此类账户激活Window 10 Enterprise，除非自己为全局管理员。
-最后关于Microsoft 365 A3 - Unattended License for students use benefit这一订阅，在2020年5月初被微软~~临时工~~错误的配置到了[管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/catalog)中，并称是给bot使用的，微软要求拥有Microsoft 365 A3的组织管理员**在6月30日前取消面向学生的许可证分配**，但并未采取任何强制手段(除了封锁拥有管理权限的用户登陆)，已经添加的该订阅，6月30日子号仍处于活动状态，并未被微软大规模禁用。
+最后关于Microsoft 365 A3 - Unattended License for students use benefit这一订阅，在2020年5月初被微软~~临时工~~错误的配置到了[管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/catalog)中，并称是给bot使用的，微软要求拥有Microsoft 365 A3的组织管理员**在6月30日前取消面向学生的许可证分配**，但并未采取任何强制手段(除了封锁拥有管理权限的用户登陆)，已经添加的该订阅，6月30日订阅仍处于活动状态，并未被微软大规模禁用。
 
 ## 二、商业订阅
 ### 1、灵车
