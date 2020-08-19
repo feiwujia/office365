@@ -22,7 +22,7 @@ M365教育订阅包括A1、A3、A5等，目前常见的、能够不给微软交�
 ***
 ## 一、教育订阅
 ### 1、Office 365 订阅
-A1许可可达Unlimited，A1P大部分为5000+5000或单5000许可，其订阅/许可证处于始终免费的状态，许可证如下:
+A1许可可达Unlimited，有两种形式，一种是购买了Unlimited的订阅，另一种是纯许可证的形式，OA1是面向微软认为合规的教育机构完全免费的订阅/许可证；A1P大部分为5000+5000或单5000许可，其许可证处于始终免费的状态，许可证如下:
 ```markdown
 Office 365 A1 for students
 
@@ -72,7 +72,7 @@ Skype for Business Online (Plan 2)
 
 Office 365 A1 for faculty和students区别在于多了Education Analytics和Microsoft Kaizala Pro的许可，Office 365 A1 Plus for faculty、Office 365 A1 Plus for students与A1(无Plus)的主要区别是**增加**了**Office最新的桌面版本**，而O365A3、O355A5不常见，各版具体的区别可以在[官网](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans)查看。
 ### 2、Microsoft 365 订阅
-以Microsoft 365 A3 - Unattended License for students use benefit为例，其订阅最高可达Unlimited，其许可证如下：
+以Microsoft 365 A3 - Unattended License for students use benefit为例，其订阅许可证数量可达Unlimited，其许可证如下：
 ```markdown
 Microsoft 365 A3 - Unattended License for students use benefit
 
@@ -113,7 +113,7 @@ Azure Active Directory Basic for EDU
 
 ## 二、商业订阅
 ### 1、灵车
-最著名的灵车无非就是 Office 365 E3 for Symphony(E3 SY)了，据大佬说，该订阅为微软提供给其合作伙伴Symphony公司的测试订阅，单订阅许可证可达350W，其许可证如下：
+最著名的灵车无非就是 Office 365 E3 for Symphony(E3 SY)了，据大佬说，该订阅为微软提供给其合作伙伴Symphony公司的测试订阅，单订阅许可证数量可达Unlimited，其许可证如下：
 ```markdown
 Office 365 E3
 
